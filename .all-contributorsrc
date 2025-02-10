@@ -3591,7 +3591,8 @@
       "contributions": [
         "a11y",
         "question",
-        "bug"
+        "bug",
+        "code"
       ]
     }
   ],
