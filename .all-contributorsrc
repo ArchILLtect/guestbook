@@ -3592,7 +3592,8 @@
         "a11y",
         "question",
         "bug",
-        "code"
+        "code",
+        "test"
       ]
     }
   ],
